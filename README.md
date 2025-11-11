@@ -1,13 +1,5 @@
 ## Hello there,
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Data+Scientist+%7C+Data+Analyst+%7C+Engineer;Turning+Complex+Data+into+Smart+Decisions;Python+%7C+Power+BI+%7C+SQL+%7C+Cloud;Building+Insight-Driven+Solutions" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <a href="https://linkedin.com/in/patrick-anyanwu"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:chiagozielam.anyanwu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
-</p>
 
 ---
 
@@ -82,6 +74,15 @@ A data-driven web platform that protects pregnant individuals from environmental
 </p>
 
 ---
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Data+Scientist+%7C+Data+Analyst+%7C+Engineer;Turning+Complex+Data+into+Smart+Decisions;Python+%7C+Power+BI+%7C+SQL+%7C+Cloud;Building+Insight-Driven+Solutions" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <a href="https://linkedin.com/in/patrick-anyanwu"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:chiagozielam.anyanwu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+</p>
+
 
 ## 📘 Certifications  
 - 🎓 **Google Data Analytics Certificate**  

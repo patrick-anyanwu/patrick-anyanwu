@@ -4,7 +4,7 @@
 I’m a Data Scientist & Engineer with a background in software engineering and analytics, passionate about turning complex data into actionable insights. I design scalable data pipelines, build automated dashboards, and apply machine learning to support data-driven decisions.
 
 With a Master of Data Science at Monash University, I'm currently focussing on integrating AI, Big Data analytics, and automation to make data more accessible and impactful.
-## Experience Snapshot  
+## Experience 
 
 ### Data Analyst – Ernst & Young (EY), Melbourne  
 *Nov 2023 – Feb 2025*  
@@ -60,6 +60,6 @@ With a Master of Data Science at Monash University, I'm currently focussing on i
 - Enhancing data storytelling through Tableau interactive dashboards
 - Designing Infographics (really inspired by Visual Capitalist)
 
-## Featured GitHub Stats  
+## GitHub Stats  
 ![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrick-anyanwu&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-anyanwu&layout=compact&theme=tokyonight)

@@ -1,53 +1,29 @@
+
 ## Hello there...
-
-
----
 
 ## About Me  
 
-I'm an **Analytical and technically skilled Data Scientist & Engineer** passionate about transforming raw data into business value. With a background in **software engineering and data analytics**, I bridge the gap between technical systems and strategic decision-making.
+I’m a Data Scientist & Engineer with a background in software engineering and analytics, passionate about turning complex data into actionable insights. I design scalable data pipelines, build automated dashboards, and apply machine learning to support data-driven decisions.
 
-I enjoy designing **scalable data pipelines**, building **automated dashboards**, and applying **machine learning** to uncover actionable insights. My experience spans government and enterprise projects where I’ve delivered end-to-end data solutions — from extraction and cleaning to visualization and reporting.
+With a Master of Data Science at Monash University, I'm currently focussing on integrating AI, Big Data analytics, and automation to make data more accessible and impactful.
+## Experience Snapshot  
 
-Currently pursuing a **Master of Data Science at Monash University**, I focus on integrating AI, cloud analytics, and automation to make data more accessible and impactful.
-
-📍 Based in Perth, Australia | Open to collaborations in **Data Science, BI, and Analytics Engineering**
-
----
-
-## 💼 Experience Snapshot  
-
-### 🧾 **Data Analyst – Ernst & Young (EY), Melbourne**  
+### Data Analyst – Ernst & Young (EY), Melbourne  
 *Nov 2023 – Feb 2025*  
-- Analyzed large-scale financial datasets using **SQL** and **ACL**, ensuring data integrity and completeness.  
-- Automated validation workflows, improving audit efficiency by **20%**.  
-- Designed **Power BI** dashboards for compliance and performance metrics.  
-- Delivered analytical insights supporting audit and regulatory teams.  
+- Analyzed financial datasets using SQL and ACL to ensure accuracy and completeness.
+- Automated validation workflows, improving audit efficiency by 20%.
+- Developed Power BI dashboards to track compliance and performance metrics.  
 
-### 🛰️ **ICT Business Analyst / Software Engineer – Galaxy Backbone Ltd, Nigeria**  
+### Software Engineer – Galaxy Backbone Ltd 
 *Feb 2021 – Feb 2023*  
-- Led data-driven feasibility studies for **nationwide ICT infrastructure and cloud initiatives**.  
-- Built **RESTful APIs** and **Python automation scripts** to streamline server provisioning (cut setup time by 40%).  
-- Collaborated on Nigeria’s **Digital Transformation Roadmap (2025–2028)** using BI and analytics insights.  
-- Developed database optimization and access control systems for enterprise-scale applications.  
+- Led data-driven feasibility studies for ICT infrastructure and cloud initiatives.
+- Delivered data insights for nationwide ICT and cloud infrastructure projects.
+- Built RESTful APIs and Python automation tools, reducing server setup time by 40%.
 
----
 
-## 🧪 Key Projects  
+## Technical Skillset  
 
-### 🌍 **MaternalShield — Environmental Health Application**  
-A data-driven web platform that protects pregnant individuals from environmental hazards using real-time analytics.  
-- Integrated datasets on heat, air pollution, and UV exposure using **Python** and **SQL**.  
-- Developed **predictive models** to assess environmental risk levels by trimester.  
-- Built **Power BI** and **Tableau** dashboards visualizing trends and alerts.  
-- Contributed to AI pipelines for real-time, location-based health recommendations.  
-- Presented findings to academic and industry panels, earning recognition for data accuracy and impact.  
-
----
-
-## 🧰 Technical Skillset  
-
-### 💡 Data Science & Analytics  
+### Data Science & Analytics  
 <p>
   <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white">
@@ -56,7 +32,7 @@ A data-driven web platform that protects pregnant individuals from environmental
   <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white">
 </p>
 
-### ⚙️ Data Engineering & Cloud  
+### Data Engineering & Cloud  
 <p>
   <img src="https://img.shields.io/badge/ETL%20Pipelines-Experienced-00BFFF?style=flat">
   <img src="https://img.shields.io/badge/Data%20Wrangling-Advanced-32CD32?style=flat">
@@ -65,7 +41,7 @@ A data-driven web platform that protects pregnant individuals from environmental
   <img src="https://img.shields.io/badge/Docker-Familiar-0db7ed?style=flat&logo=docker&logoColor=white">
 </p>
 
-### 🧮 Machine Learning & Statistical Modeling  
+### Machine Learning & Statistical Modeling  
 <p>
   <img src="https://img.shields.io/badge/Scikit--Learn-Intermediate-F7931E?style=flat&logo=scikitlearn&logoColor=white">
   <img src="https://img.shields.io/badge/TensorFlow-Beginner-FF6F00?style=flat&logo=tensorflow&logoColor=white">
@@ -73,9 +49,8 @@ A data-driven web platform that protects pregnant individuals from environmental
   <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat">
 </p>
 
----
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Data+Scientist+%7C+Data+Analyst+%7C+Engineer;Turning+Complex+Data+into+Smart+Decisions;Python+%7C+Power+BI+%7C+SQL+%7C+Cloud;Building+Insight-Driven+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Aptos+Display&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Data+Scientist+%7C+Data+Analyst+%7C+Data+Engineer;Python+%7C+Power+BI+%7C+SQL+%7C+Cloud+Systems;Building+Insight-Driven+Solutions" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -83,24 +58,11 @@ A data-driven web platform that protects pregnant individuals from environmental
   <a href="mailto:chiagozielam.anyanwu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
+## Currently Exploring  
+- Cloud-based data warehousing and orchestration with Databricks & Microsoft Fabric
+- Enhancing data storytelling through Tableau interactive dashboards
+- Designing Infographics (really inspired by Visual Capitalist)
 
-## 📘 Certifications  
-- 🎓 **Google Data Analytics Certificate**  
-- 💡 **Microsoft Power BI Fundamentals**  
-
----
-
-## 🌱 Currently Exploring  
-- Cloud-based **data warehousing and orchestration** with **BigQuery & Airflow**  
-- Building **end-to-end ML pipelines** for environmental and financial analytics  
-- Enhancing **data storytelling** through interactive dashboards and APIs  
-
----
-
-## 📊 Featured GitHub Stats  
+## Featured GitHub Stats  
 ![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrick-anyanwu&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-anyanwu&layout=compact&theme=tokyonight)
-
----
-
-### 🌐 [Visit My Portfolio Website →](https://patrick-anyanwu.github.io/)  

@@ -60,6 +60,3 @@ With a Master of Data Science at Monash University, I'm currently focussed on Ma
 - Enhancing data storytelling through Tableau interactive dashboards
 - Designing Infographics (really inspired by Visual Capitalist)
 
-## GitHub Stats  
-![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrick-anyanwu&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-anyanwu&layout=compact&theme=tokyonight)

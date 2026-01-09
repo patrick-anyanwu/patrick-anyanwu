@@ -37,8 +37,13 @@ React, TypeScript, Tailwind
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/patrick-anyanwu"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:chiagozielam.anyanwu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://linkedin.com/in/patrick-anyanwu">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:chiagozielam.anyanwu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=patrick-anyanwu&style=for-the-badge&label=VIEWS" />
 </p>
 
 

@@ -52,4 +52,4 @@ React, TypeScript, Tailwind
 
 📊 Experimenting with **big data visualisations** and storytelling with large datasets
 
-![](https://komarev.com/ghpvc/?username=patrick-anyanwu)
+![](https://komarev.com/ghpvc/?username=patrick-anyanwu&style=for-the-badge&label=VIEWS)

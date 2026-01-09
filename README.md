@@ -56,5 +56,3 @@ React, TypeScript, Tailwind
 🖼️ Learning to design clean, bold infographics — heavily inspired by **Visual Capitalist**
 
 📊 Experimenting with **big data visualisations** and storytelling with large datasets
-
-![](https://komarev.com/ghpvc/?username=patrick-anyanwu&style=for-the-badge&label=VIEWS)
